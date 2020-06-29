@@ -8,7 +8,7 @@
 
 **No Supervision** -  Language Modelling i.e. Predicting the next word
 
-![image-20200629115323143](Images\Screenshot (2509).png)
+![Screenshot (2509)](Images\Screenshot (2509).png)
 
 
 
