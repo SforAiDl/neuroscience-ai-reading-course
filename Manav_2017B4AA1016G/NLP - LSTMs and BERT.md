@@ -8,7 +8,7 @@
 
 **No Supervision** -  Language Modelling i.e. Predicting the next word
 
-![Screenshot (2509)](Images\Screenshot (2509).png)
+<img src="Images\Screenshot (2509).png" style="zoom:200%;" />
 
 
 
@@ -104,7 +104,7 @@ Because the results(GLUE Benchmarks) are so good, we conclude that maybe BERT ca
 For a token sequence, we compute the span representation at layer by concatenating the first and last hidden vector, along with their element-wise product and difference. We visualize the span representations
 obtained from multiple layers using t-SNE.
 
-![image-20200629123758820](Images\Screenshot (2515).png)
+<img src="Images\Screenshot (2515).png" style="zoom:100%;" />
 
 We observe that BERT mostly captures phrase-level information in the lower layers and that this information gets gradually diluted in higher layers.
 
