@@ -8,7 +8,7 @@
 
 **No Supervision** -  Language Modelling i.e. Predicting the next word
 
-![image-20200629115323143](C:\Users\manav\AppData\Roaming\Typora\typora-user-images\image-20200629115323143.png)
+![image-20200629115323143](Images\image-20200629115323143.png)
 
 
 
@@ -33,7 +33,7 @@ This implies that around 95% of agreement dependencies can be captured based sol
 
 This suggests that function words, verbs and other syntactically informative elements play an important role in the model’s ability to correctly predict the verb’s number.
 
-<img src="C:\Users\manav\AppData\Roaming\Typora\typora-user-images\image-20200629124208200.png" alt="image-20200629124208200" style="zoom:200%;" />
+<img src="Images\image-20200629124208200.png" alt="image-20200629124208200" style="zoom:200%;" />
 
 **Distance** - Performance did not degrade considerably when the distance between the subject and the verb grew up to 15 words (LSTMs - LONG, 3 gates)
 
@@ -89,7 +89,7 @@ I experiment with the bert-large-uncased and bert-base-uncased models.
 
 All cases exhibit high scores—in the vast majority of the cases substantially higher than reported in previous work.  The high performance numbers indicate that the purely attention-based BERT models are likely capable of capturing the same kind of syntactic regularities that LSTM-based models are capable of capturing, at least as well as the LSTM models and probably better.
 
-<img src="C:\Users\manav\AppData\Roaming\Typora\typora-user-images\image-20200629114933142.png" alt="image-20200629114933142" style="zoom: 250%;" />
+<img src="Images\image-20200629114933142.png" alt="image-20200629114933142" style="zoom: 250%;" />
 
 Another noticeable and interesting trend is that larger is not necessarily better: the BERT-Base model outperforms the BERT-Large model on many of the syntactic conditions.
 
@@ -104,7 +104,7 @@ Because the results(GLUE Benchmarks) are so good, we conclude that maybe BERT ca
 For a token sequence, we compute the span representation at layer by concatenating the first and last hidden vector, along with their element-wise product and difference. We visualize the span representations
 obtained from multiple layers using t-SNE.
 
-![image-20200629123758820](C:\Users\manav\AppData\Roaming\Typora\typora-user-images\image-20200629123758820.png)
+![image-20200629123758820](Images\image-20200629123758820.png)
 
 We observe that BERT mostly captures phrase-level information in the lower layers and that this information gets gradually diluted in higher layers.
 
@@ -136,7 +136,7 @@ We evaluate each layer of BERT using ten probing sentence-level datasets/tasks.
 
     
 
-<img src="C:\Users\manav\AppData\Roaming\Typora\typora-user-images\image-20200629122407035.png" alt="image-20200629122407035" style="zoom:200%;" />
+<img src="Images\image-20200629122407035.png" alt="image-20200629122407035" style="zoom:200%;" />
 
 (Untrained - Random Weights)
 
@@ -150,7 +150,7 @@ information, at the expense of its ability to predict such basic surface feature
 
 BERT learns syntactic phenomenon surprisingly well using various stimuli for subject-verb agreement.
 
-<img src="C:\Users\manav\AppData\Roaming\Typora\typora-user-images\image-20200629123053250.png" alt="image-20200629123053250" style="zoom: 67%;" />
+<img src="Images\image-20200629123053250.png" alt="image-20200629123053250" style="zoom: 67%;" />
 
 ### Conclusions
 
