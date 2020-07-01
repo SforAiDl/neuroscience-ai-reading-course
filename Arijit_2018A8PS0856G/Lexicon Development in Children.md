@@ -56,3 +56,8 @@ When comparing the word vectors of the same word across different corpora slices
 
 2. Andrey Kutuzov, Lilja Øvrelid, Terrence Szymanski, Erik Velldal. ***Diachronic word embeddings and semantic shifts: a survey***. <br/>[ACL 2018](https://www.aclweb.org/anthology/C18-1117)
 
+3. Andrey Kutuzov, Lilja Øvrelid, Terrence Szymanski, Erik Velldal. ***Diachronic word embeddings and semantic shifts: a survey***. <br/>[ACL 2018](https://www.aclweb.org/anthology/C18-1117)
+
+
+
+
