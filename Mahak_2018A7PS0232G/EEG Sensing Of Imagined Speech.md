@@ -25,7 +25,7 @@ EEG is a technique to measure the electric fields produced by brain activity. Fr
 
 1. #### **Modeling EEG Signals**
 
-   ![Screenshot 2020-07-03 at 1.29.23 PM](./Images/Screenshot 2020-07-03 at 1.29.23 PM.png)
+   ![Screenshot 2020-07-03 at 1.29.23 PM](./Images/AR2.png)
    
    
    
@@ -63,7 +63,7 @@ EEG is a technique to measure the electric fields produced by brain activity. Fr
 
 #### 	1. **Univariate Autoregressive (AR) Model**
 
-![Screenshot 2020-07-03 at 1.31.37 PM](./Images/Screenshot 2020-07-03 at 1.31.37 PM.png)
+![Screenshot 2020-07-03 at 1.31.37 PM](./Images/AR.png)
 
 ####     2. Imagined Syllable Classification
 
@@ -79,7 +79,7 @@ EEG is a technique to measure the electric fields produced by brain activity. Fr
 
 ​	![Envelope](./Images/Envelope.png)
 
-![Screenshot 2020-07-03 at 1.32.00 PM](./Images/Screenshot 2020-07-03 at 1.32.00 PM.png)
+![Screenshot 2020-07-03 at 1.32.00 PM](./Images/Envelope2.png)
 
 
 
