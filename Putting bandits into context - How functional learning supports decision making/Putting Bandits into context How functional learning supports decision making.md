@@ -81,6 +81,6 @@ Eric Schulz, Emmanouil Konstantinidis, Maarten Speekenbrink
 - Context dependence was the same for all in this case. There can be a scenario where there are general as well as specific features as contexts (Multicontextual)
 - Multifunctional Multicontextual - something like a composition of functions of each context affects the reward can be looked into
 
-##Read ahead
+## Read ahead
 
 - [Exploration-exploitation in contextual multi arm bandit tasks](https://http://cpilab.org/pubs/Schulz2015exploration.pdf)
