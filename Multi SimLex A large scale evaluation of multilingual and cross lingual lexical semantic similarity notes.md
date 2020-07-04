@@ -1,5 +1,7 @@
 ## Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity
 
+<https://multisimlex.com/>
+
 ### Problem
 
 - Lack of annotated data for many tasks and domains hinders the development of computational models for the majority of the world’s languages.
