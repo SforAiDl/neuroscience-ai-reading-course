@@ -1,5 +1,6 @@
 # Putting Bandits into context: How functional learning supports decision making
-
+Eric Schulz, Emmanouil Konstantinidis, Maarten Speekenbrink
+[https://https://pubmed.ncbi.nlm.nih.gov/29130693/](https://https://pubmed.ncbi.nlm.nih.gov/29130693/)
 ## Key Takeaways
 
 - CMAB to investigate learning in uncertain environments
@@ -79,3 +80,7 @@
 - Reward function can be taken to incorporate the cost of taking wrong actions - may lead to careful and accurate learning, but may also lead to less exploration
 - Context dependence was the same for all in this case. There can be a scenario where there are general as well as specific features as contexts (Multicontextual)
 - Multifunctional Multicontextual - something like a composition of functions of each context affects the reward can be looked into
+
+##Read ahead
+
+- [Exploration-exploitation in contextual multi arm bandit tasks](https://http://cpilab.org/pubs/Schulz2015exploration.pdf)
