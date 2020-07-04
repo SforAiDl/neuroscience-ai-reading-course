@@ -1,6 +1,6 @@
 # Putting Bandits into context: How functional learning supports decision making
-Eric Schulz, Emmanouil Konstantinidis, Maarten Speekenbrink
-[https://https://pubmed.ncbi.nlm.nih.gov/29130693/](https://https://pubmed.ncbi.nlm.nih.gov/29130693/)
+Eric Schulz, Emmanouil Konstantinidis, Maarten Speekenbrink  
+[https://pubmed.ncbi.nlm.nih.gov/29130693/](https://https://pubmed.ncbi.nlm.nih.gov/29130693/)
 ## Key Takeaways
 
 - CMAB to investigate learning in uncertain environments
