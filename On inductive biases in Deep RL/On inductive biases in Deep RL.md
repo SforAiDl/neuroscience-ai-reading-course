@@ -38,7 +38,7 @@ Matteo Hessel, Hado van Hasselt, Joseph Modayil, David Silver
 - Reward scaling - The adaptive algorithm performed better than carefully hand tuned learning rate, for a discount factor of 0.8 (best from the prev experiment)
 - Number of action repeats - 11 cyclic states, +100 reward if there is constant action selection in the 11 state. The A2C learns to chose the number of repititions, the adaptive algorithm quickly learnt it, performing better than the tabular A2C
 
-![https://github.com/hades-rp2010/neuroscience-ai-reading-course/tree/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/tree/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled.png)
+![https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled.png)
 
 ### Large Domain performance
 
@@ -50,13 +50,13 @@ Matteo Hessel, Hado van Hasselt, Joseph Modayil, David Silver
 - The reason might be that clipping the rewards (maximise the frequencyof greater than 1 rewards) acts as a good proxy for many of the Atari games
 - Learning from raw observations - The outcome shows that the adaptive algorithm is powerful enough to learn the relevant features on its own, performing better than an agent with handcrafted features.
 
-![https://github.com/hades-rp2010/neuroscience-ai-reading-course/tree/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%201.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/tree/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%201.png)
+![https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%201.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%201.png)
 
 ### Performance on Unseen tasks
 
 - The Deepmind continuous control suite was used for these tasks. No convolutions were used in the network due to lack of spatial features, and outputs were interpreted as encoding the mean and variance instead of cateogrical logits. The results are shown below
 
-![https://github.com/hades-rp2010/neuroscience-ai-reading-course/tree/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%202.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/tree/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%202.png)
+![https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%202.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/On%20inductive%20biases%20in%20Deep%20RL/imgs/Untitled%202.png)
 
 ## Further ideas
 
