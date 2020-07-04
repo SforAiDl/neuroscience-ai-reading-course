@@ -62,3 +62,7 @@ Matteo Hessel, Hado van Hasselt, Joseph Modayil, David Silver
 
 - This work is a critic of inductive biases being used. There is evidence that [humans use inductive biases](https://arxiv.org/abs/1802.10217) that lead to efficient learning, there might be a connection here
 - A combination of both - inductive and general learning, similar to humans, the DRL agent gets to chose between taking an inductive step and learning from that, or taking a more general step
+
+## Read Ahead
+
+- [Deep Reinforcement Learning with relational inductive biases](https://openreview.net/pdf?id=HkxaFoC9KQ)
