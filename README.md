@@ -12,3 +12,10 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Brain Embeddings
 1. [Brain Data Embeddings](./Neelay_2018A8PS0400G/brain_data_embeddings.md)
+
+## EEG Sensing Of Imagined Speech
+
+1. [EEG Sensing Of Imagined Speech](./Mahak_2018A7PS0232G/EEG Sensing Of Imagined Speech)
+
+   
+
