@@ -15,7 +15,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## EEG Sensing Of Imagined Speech
 
-1. [EEG Sensing Of Imagined Speech](./Mahak_2018A7PS0232G/EEG Sensing Of Imagined Speech)
+1. [EEG Sensing Of Imagined Speech](./Mahak_2018A7PS0232G/EEG Sensing Of Imagined Speech.md)
 
    
 
