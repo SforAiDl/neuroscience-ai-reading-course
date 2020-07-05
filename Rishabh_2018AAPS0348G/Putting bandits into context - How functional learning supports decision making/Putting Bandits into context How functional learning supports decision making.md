@@ -25,6 +25,7 @@ Eric Schulz, Emmanouil Konstantinidis, Maarten Speekenbrink
 ### Gaussian process regression
 
 - A marginal distributional over all functons
+- A bayesian learning framework where we start with a prior over all functions, and keep updating the posterior based on the observed inputs and outputs, characterised by a mean(m), and the kernel (covariance, k)
 
 ### Context blind learning
 
