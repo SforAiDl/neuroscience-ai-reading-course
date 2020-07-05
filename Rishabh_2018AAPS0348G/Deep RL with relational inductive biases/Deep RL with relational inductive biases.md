@@ -20,7 +20,7 @@ Vinicius Zambaldi, David Raposo, Adam Santoro
 - Relational module -
     - For one step of relational computation, the pairwise interactions between all the enities, including self, is calculated, using a multi-head dot product attention mechanism (MHDPA)
 
-    ![Deep%20RL%20with%20relational%20inductive%20biases%2047b66fcafd6f4da8b4e32ac7f2d81169/Untitled.png](Deep%20RL%20with%20relational%20inductive%20biases%2047b66fcafd6f4da8b4e32ac7f2d81169/Untitled.png)
+    ![https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/Rishabh_2018AAPS0348G/Deep%20RL%20with%20relational%20inductive%20biases/Deep%20RL%20with%20relational%20inductive%20biases/Untitled.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/Rishabh_2018AAPS0348G/Deep%20RL%20with%20relational%20inductive%20biases/Deep%20RL%20with%20relational%20inductive%20biases/Untitled.png)
 
     - Similarities between query $q_i$ and all the keys $k_{j = i:N}$ are computed via dot product, and normalised to attention weights via softmax
     - Pairwise interaction terms are then calculated as $p_{i,j} = w_{i,j}v_j$ and summing these as $a_{i}=\Sigma_{j=1:N}a_{i, j}$ act as attention weights
@@ -40,7 +40,7 @@ Vinicius Zambaldi, David Raposo, Adam Santoro
     - The baseline agent performs much better with a backward branch, implying its poor performance can be attributed to its lack of reasoning capability
     - Analysis of attention weights - Arrows point from the source to the what it is attending
 
-    ![Deep%20RL%20with%20relational%20inductive%20biases%2047b66fcafd6f4da8b4e32ac7f2d81169/Untitled%201.png](Deep%20RL%20with%20relational%20inductive%20biases%2047b66fcafd6f4da8b4e32ac7f2d81169/Untitled%201.png)
+    ![https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/Rishabh_2018AAPS0348G/Deep%20RL%20with%20relational%20inductive%20biases/Deep%20RL%20with%20relational%20inductive%20biases/Untitled%201.png](https://github.com/hades-rp2010/neuroscience-ai-reading-course/blob/master/Rishabh_2018AAPS0348G/Deep%20RL%20with%20relational%20inductive%20biases/Deep%20RL%20with%20relational%20inductive%20biases/Untitled%201.png)
 
     - The paper suggested 4 relations -
         - The keys attend to the locks that can be unlocked with it
