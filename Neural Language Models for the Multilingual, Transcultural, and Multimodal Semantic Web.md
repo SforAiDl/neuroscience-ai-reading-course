@@ -1,5 +1,7 @@
 # Neural Language Models for the Multilingual, Transcultural, and Multimodal Semantic Web
 
+http://www.semantic-web-journal.net/content/neural-language-models-multilingual-transcultural-and-multimodal-semantic-web
+
 ### Dagmar Gromann
 
 -----------
