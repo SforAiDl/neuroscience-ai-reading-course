@@ -1,6 +1,7 @@
-## Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity
+## Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity - Notes
 
 <https://multisimlex.com/>
+https://arxiv.org/abs/2003.04866
 
 ### Problem
 
