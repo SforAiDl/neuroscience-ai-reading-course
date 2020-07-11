@@ -1,6 +1,8 @@
 # Toward EEG Sensing of Imagined Speech
 
-*(Michael D’Zmura, Siyi Deng, Tom Lappas, Samuel Thorpe, and Ramesh Srinivasan)*
+## Original Publication
+
+D’Zmura M., Deng S., Lappas T., Thorpe S., Srinivasan R. (2009) Toward EEG Sensing of Imagined Speech. In: Jacko J.A. (eds) Human-Computer Interaction. New Trends. HCI 2009. Lecture Notes in Computer Science, vol 5610. Springer, Berlin, Heidelberg
 
 ## Experimental Setup
 
