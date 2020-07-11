@@ -1,6 +1,8 @@
 # Toward EEG Sensing of Imagined Speech
 
-*(Michael D’Zmura, Siyi Deng, Tom Lappas, Samuel Thorpe, and Ramesh Srinivasan)*
+## Original Publication
+
+D’Zmura M., Deng S., Lappas T., Thorpe S., Srinivasan R. (2009) Toward EEG Sensing of Imagined Speech. In: Jacko J.A. (eds) Human-Computer Interaction. New Trends. HCI 2009. Lecture Notes in Computer Science, vol 5610. Springer, Berlin, Heidelberg
 
 ## Experimental Setup
 
@@ -13,11 +15,12 @@
 
 ![Toward%20EEG%20Sensing%20of%20Imagined%20Speech%20692b727ae1e9488c9aa9b96a23d1770e/Untitled%202.png](Toward%20EEG%20Sensing%20of%20Imagined%20Speech%20692b727ae1e9488c9aa9b96a23d1770e/Untitled%202.png)
 
-                           Fig. 1 Timelines for the 6 conditions. Time durations are in eighths of a second. 
+Fig. 1 Timelines for the 6 conditions. Time durations are in eighths of a second. 
 
 - The condition for each trial was cued during an initial period of duration 4.5 sec (12/8 sec = 1.5 sec; 3 x 1.5 sec = 4.5 sec). During this initial period, subjects heard through Stax electrostatic earphones either a spoken "ba" or a spoken "ku" followed by a train of clicks (arrows) indicating the rhythm to be reproduced. Desired imagined syllable onset times reproduce the cued rhythm and are indicated by asterisks.
 - Each experimental session comprised of 20 trials for each of the six conditions(block-randomized order).
 - Each subject participated in six such sessions for a total of 120 trials per condition.
+- So a total of 720 trials for each subject.
 - EEG signals were recorded using a 128 Channel Sensor Net (Electrical Geodesics) in combination with an amplifier and acquisition software (Advanced Neuro Technology).
 - The EEG was sampled at a frequency of 1024 Hz.
 - Subjects were instructed to keep their eyes open in the dimly-lit recording room and to avoid eye and other movements during the six seconds, following the cue, during which speech was imagined without any vocalization whatsoever.
@@ -42,7 +45,7 @@
 
 ![Toward%20EEG%20Sensing%20of%20Imagined%20Speech%20692b727ae1e9488c9aa9b96a23d1770e/Untitled%203.png](Toward%20EEG%20Sensing%20of%20Imagined%20Speech%20692b727ae1e9488c9aa9b96a23d1770e/Untitled%203.png)
 
-Fig. 2. Preprocessed and band-pass-filtered waveform we[t], recorded by electrode e, is Hilbert-transformed to provide envelope ve[t]. The inner product <, > of this envelope with each matched filter Fe,c[t], one filter per condition per electrode, provides six numbers pe,c. These six numbers measure how well the particular trial's envelope matches the filter for each condition. The maximum of these six numbers is used to determine the most likely condition c˜ e.
+Fig. 2. Preprocessed and band-pass-filtered waveform w<sub>e</sub>[t], recorded by electrode e, is Hilbert-transformed to provide envelope v<sub>e</sub>[t]. The inner product <, > of this envelope with each matched filter F<sub>e,c</sub>[t], one filter per condition per electrode, provides six numbers p<sub>e,c</sub>. These six numbers measure how well the particular trial's envelope matches the filter for each condition. The maximum of these six numbers is used to determine the most likely condition c˜<sub>e</sub>.
 
 ## Results
 
