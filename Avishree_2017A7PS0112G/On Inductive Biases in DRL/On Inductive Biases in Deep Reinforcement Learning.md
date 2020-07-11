@@ -1,9 +1,11 @@
 # On Inductive Biases in Deep Reinforcement Learning
 
 Created: Jul 3, 2020 2:46 PM
+
 Description: Adaptive systems (weak inductive bias) vs. domain heuristics (strong inductive bias) performance comparison and related discussion
+
 Materials: https://arxiv.org/pdf/1907.02908.pdf
-Reviewed: No
+
 Status: In progress
 
 ### Reinforcement Learning today
