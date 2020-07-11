@@ -20,6 +20,7 @@ Fig. 1 Timelines for the 6 conditions. Time durations are in eighths of a second
 - The condition for each trial was cued during an initial period of duration 4.5 sec (12/8 sec = 1.5 sec; 3 x 1.5 sec = 4.5 sec). During this initial period, subjects heard through Stax electrostatic earphones either a spoken "ba" or a spoken "ku" followed by a train of clicks (arrows) indicating the rhythm to be reproduced. Desired imagined syllable onset times reproduce the cued rhythm and are indicated by asterisks.
 - Each experimental session comprised of 20 trials for each of the six conditions(block-randomized order).
 - Each subject participated in six such sessions for a total of 120 trials per condition.
+- So a total of 720 trials for each subject.
 - EEG signals were recorded using a 128 Channel Sensor Net (Electrical Geodesics) in combination with an amplifier and acquisition software (Advanced Neuro Technology).
 - The EEG was sampled at a frequency of 1024 Hz.
 - Subjects were instructed to keep their eyes open in the dimly-lit recording room and to avoid eye and other movements during the six seconds, following the cue, during which speech was imagined without any vocalization whatsoever.
