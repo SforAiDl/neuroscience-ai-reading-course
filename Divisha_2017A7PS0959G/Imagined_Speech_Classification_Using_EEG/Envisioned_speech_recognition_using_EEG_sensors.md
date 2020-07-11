@@ -99,7 +99,7 @@ Lower recognition rates were recorded for the younger subjects belonging to G1 g
 
 Fig. 8. Accuracy Results for different durations of EEG signals
 
-Highest accuracy of 85.20% and 67.03% were recorded for coarse- and finer-level classification with durations of 250 and 50 ms, respectively. 
+Highest accuracy of 85.20% and 67.03% were recorded for coarse- and finer-level classification with durations of 250 and 50 ms, respectively for RF Classifier. 
 
 ### Comparative Analysis of Modelling Algorithms
 
