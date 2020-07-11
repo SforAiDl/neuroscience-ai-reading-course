@@ -1,8 +1,11 @@
 # Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 
 Created: Jul 10, 2020 3:20 PM
+
 Description: Train a model on some tasks such that when a new task is presented, it only needs to run a few gradient steps on a few training samples to generalize well on the new task.
+
 Materials: https://arxiv.org/pdf/1703.03400.pdf
+
 Status: Done reading
 
 **To do:**
