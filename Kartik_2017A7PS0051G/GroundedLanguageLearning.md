@@ -38,7 +38,16 @@ Both are jointly optimized in an alternating mechanism.
 
 ![](https://github.com/bhatiakartik10/neuroscience-ai-reading-course/blob/master/Kartik_2017A7PS0051G/Visually%20Grounded%20Neural%20Syntax%20Acquisition/7.jpg?raw=true)
 
+### Training
 
+Optimization of the visual-semantic representations (phi) and constituency structures (theta) was done in an alternating approach. At each iteration, given constituency parsing results of caption, phi is optimized for matching the visual and the textual representations. Next, given the visual grounding of constituents, theta is optimized for producing constituents that can be better matched with images.
 
+## Evaluation and Results
+
+- Performance of the combined model was tested against the text only SOTA model (Benepar) to parse captions in the MSCOCO dataset. 
+- Consistent parsing results across various choices for random initializations. 
+- Much more data efficient, reaching comparable performance using only 20% of the the training captions. 
+
+![](https://github.com/bhatiakartik10/neuroscience-ai-reading-course/blob/master/Kartik_2017A7PS0051G/Visually%20Grounded%20Neural%20Syntax%20Acquisition/8.jpg?raw=true)
 
 
