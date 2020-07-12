@@ -16,7 +16,7 @@ This paper introduces a new robust 2 level coarse-to-fine classification approac
 - Each subject was shown 30 visual cues (Fig. 1) and was told to imagine the viewed object for 10 s while eyes closed in resting state.
 - There was a gap of 20s between any 2 cues so that subject can return to the rest state before thinking of the next item.
 - A total of 690 (23x30) recordings collected. Each recording was 10s in length.
-- Each recording has been split into multiple signals for coarse and fine-level classification with different time duration of 250 ms and 50 ms, respectively. Therefore, a total of 138,000 (690x10s/0.05s) and 27,600 (690x10s/0.25s) recordings of EEG signals have been analyzed in this study at coarse and fine-level classification, respectively.
+- Each recording has been split into multiple signals for coarse and fine-level classification with different time duration of 250 ms and 50 ms, respectively. Therefore, a total of 27,600 (690x10s/0.25s) and 138,000 (690x10s/0.05s) recordings of EEG signals have been analyzed in this study at coarse and fine-level classification, respectively.
 
 ![Envisioned%20speech%20recognition%20using%20EEG%20sensors%203c7c93798a114390893f9be7204319c2/Untitled.png](Envisioned%20speech%20recognition%20using%20EEG%20sensors%203c7c93798a114390893f9be7204319c2/Untitled.png)
 
