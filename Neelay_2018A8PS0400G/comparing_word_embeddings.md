@@ -79,9 +79,9 @@ sponding to each word for a particular subject
 
 ## Results
 
-![Results](./img/Results-1.png)
+![Results](./img/Results-1.png) <br>
 
-![Results](./img/Results-2.png)
+![Results](./img/Results-2.png) <br>
 
 * Ranking of the models differs per subject makes it difficult to make general conclusions about the best model.
 
@@ -95,7 +95,7 @@ the brain imaging data versus the sparseness of non- distributional word vectors
 
 # Task 2: Predicting word representations from brain activations
 
-![Results](./img/Results-3.png)
+![Results](./img/Results-3.png) <br>
 
 * It seems that it is very easy to construct GloVe word vectors from brain activation patterns; the model achieves an accuracy of 90 percent
 
