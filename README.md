@@ -15,3 +15,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Modeling Selective-Attention with Neural Networks
 1. [Introduction to Selective Attention and Cognitive Neuroscience](./Somesh_2018A7PS0175G/Modelling-Selective-Attention-with-Neural-Networks.md)
+
+## Imagined Speech Classification 
+1. [Envisioned speech recognition using EEG sensors](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Envisioned_speech_recognition_using_EEG_sensors.md)
+2. [Toward EEG Sensing of Imagined Speech](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Toward_EEG_Sensing_of_Imagined_Speech.md)
