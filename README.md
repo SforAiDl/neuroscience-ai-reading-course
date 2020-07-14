@@ -19,8 +19,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Inductive Bias in Meta-Reinforcement Learning
 
-1. [Compositional inductive biases in function learning](./Avishree_2017A7PS0112G/Compositional_inductive_biases_in_function_learning/Compositional_inductive_biases_in_function_learning.md)
-2. [MAML](./Avishree_2017A7PS0112G/MAML/Model_Agnostic_Meta_Learning_for_Fast_Adaptation.md)
+1. [MAML](./Avishree_2017A7PS0112G/MAML/Model_Agnostic_Meta_Learning_for_Fast_Adaptation.md)
 3. [MAML as Hierarchical Bayes](./Avishree_2017A7PS0112G/MAML_as_Hierarchical_Bayes/MAML_as_Hierarchical_Bayes.md)
 4. [On inductive biases in DRL](./Avishree_2017A7PS0112G/On_Inductive_Biases_in_DRL/On_Inductive_Biases_in_Deep_Reinforcement_Learning.md)
 
