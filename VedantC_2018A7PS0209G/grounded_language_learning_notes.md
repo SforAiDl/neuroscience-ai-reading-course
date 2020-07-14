@@ -52,7 +52,7 @@ They show how it exhibits various aspects of early word learning -
 
 - First, the agent success- fully learns a vocabulary of words from different semantic classes, and study the dynamics of this process. They show that the rate at which the agent acquires new words increases rapidly after an initial slow period, an effect matching the human vocabulary spurt (Plunkett et al., 1992; Regier, 1996). 
 - Second, they investigate whether the agent exhibits a shape or colour bias. And finally, in order to analyse the semantic processing taking place in the model, they develop a novel method for dynamically visualising how different word types stimulate activations in different parts of the agent architecture.
-- 
+
 ### A 3D world for language learning
 
 The experiments take place in the DeepMind Lab simulated world (Beattie et al., 2016). During each episode, the agent receives a single word instruction, and is rewarded for satisfying the instruction, in this case by executing actions that allow it to locate a (3D, rotating) pencil and bump into it. At each time step in the episode, the agent receives a 3 x 84 x 84 (RGB) pixel tensor of real values visual input, and a single word representing the instruction, and must execute a movement action from a set of 8 actions.
