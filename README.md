@@ -16,3 +16,6 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 ## Imagined Speech Classification 
 1. [Envisioned speech recognition using EEG sensors](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Envisioned_speech_recognition_using_EEG_sensors.md)
 2. [Toward EEG Sensing of Imagined Speech](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Toward_EEG_Sensing_of_Imagined_Speech.md)
+
+## Grounded Language Learning
+[GLL_notes](./VedantC_2018A7PS0209G/grounded_language_learning_notes.md) 
