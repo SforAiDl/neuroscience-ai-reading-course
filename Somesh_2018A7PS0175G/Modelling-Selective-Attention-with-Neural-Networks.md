@@ -83,3 +83,9 @@ Apart from Attention Models in Computer Science other theories include :
 ### Conclusion
 
 We conclude in this section that human attention is a process to allocate cognitive resources with different weights according to the priority of the events. Similarly, in computer science, attention mechanisms in models are designed to be allocating different weights to relevant input information and ignore irrelevant information with low-valued weights. However, the connection between computer science models and psychology is still loose and broad. It is required to explore the human cognition processing from a computational perspective, which is also beneficial for confirming psychological and biological hypotheses in computer science.
+
+### References
+1. Chorowski, Jan K., et al. "Attention-based models for speech recognition." Advances in neural information processing systems. 2015.
+2. Xu, Kelvin, et al. "Show, attend and tell: Neural image caption generation with visual attention." International conference on machine learning. 2015.
+3. Di Fu, Cornelius Weber, et al. "What Can Computational Models Learn From Human Selective Attention? A Review From an Audiovisual Unimodal and Crossmodal Perspective." Frontiers in Integrative Neuroscience 14 (2020).
+4. Yu, Hongliang, et al. "Temporally selective attention model for social and affective state recognition in multimedia content." Proceedings of the 25th ACM international conference on Multimedia. 2017.
