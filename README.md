@@ -31,3 +31,6 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 2. [Hide and Seek](https://github.com/f20190094/neuroscience-ai-reading-course/blob/master/ARYAN_f20190094/HIDE%20AND%20SEEK%2010067df7e23b4b2e8fba1663f0c5b91e.md)
 3. [Intrinsic Social Motivation](https://github.com/f20190094/neuroscience-ai-reading-course/blob/master/ARYAN_f20190094/Intrinsic%20social%20motivation%202bf0fc2ab0804eb3a51408d8eb12403c.md)
 
+# Deep Cognitive Models of Language Acquisition
+1. Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity
+2. Neural Language Models for the Multilingual, Transcultural, and Multimodal Semantic Web
