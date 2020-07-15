@@ -12,3 +12,6 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Brain Embeddings
 1. [Brain Data Embeddings](./Neelay_2018A8PS0400G/brain_data_embeddings.md)
+
+## Grounded Language Learning
+1. [Visually Grounded Neural Syntax Acquisition](https://github.com/bhatiakartik10/neuroscience-ai-reading-course/blob/master/Kartik_2017A7PS0051G/Visually%20Grounded%20Neural%20Syntax%20Acquisition%20Notes.md)
