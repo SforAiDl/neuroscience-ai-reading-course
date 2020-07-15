@@ -12,7 +12,6 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Brain Embeddings
 1. [Brain Data Embeddings](./Neelay_2018A8PS0400G/brain_data_embeddings.md)
-
 2. [Comparing Word Embeddings](./Neelay_2018A8PS0400G/comparing_word_embeddings.md)
 
 ## Imagined Speech Classification 
@@ -40,3 +39,5 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 3. [MAML as Hierarchical Bayes](./Avishree_2017A7PS0112G/MAML_as_Hierarchical_Bayes/MAML_as_Hierarchical_Bayes.md)
 4. [On inductive biases in DRL](./Avishree_2017A7PS0112G/On_Inductive_Biases_in_DRL/On_Inductive_Biases_in_Deep_Reinforcement_Learning.md)
 
+## Modeling Selective-Attention with Neural Networks
+1. [Introduction to Selective Attention and Cognitive Neuroscience](./Somesh_2018A7PS0175G/Modelling-Selective-Attention-with-Neural-Networks.md)
