@@ -19,7 +19,6 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 1. [Envisioned speech recognition using EEG sensors](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Envisioned_speech_recognition_using_EEG_sensors.md)
 2. [Toward EEG Sensing of Imagined Speech](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Toward_EEG_Sensing_of_Imagined_Speech.md)
 
-
 ## Inductive biases in Deep Reinforcement Learning
 1. [On inductive biases in Deep Reinforcement Learning](./Rishabh_2018AAPS0348G/On%20inductive%20biases%20in%20Deep%20RL/On%20inductive%20biases%20in%20Deep%20RL.md)
 2. [Deep Reinforcement Learning with Relational Inductive biases](./Rishabh_2018AAPS0348G/Deep%20RL%20with%20relational%20inductive%20biases/Deep%20RL%20with%20relational%20inductive%20biases.md)
@@ -34,3 +33,10 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 # Deep Cognitive Models of Language Acquisition
 1. Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity
 2. Neural Language Models for the Multilingual, Transcultural, and Multimodal Semantic Web
+
+## Inductive Bias in Meta-Reinforcement Learning
+
+1. [MAML](./Avishree_2017A7PS0112G/MAML/Model_Agnostic_Meta_Learning_for_Fast_Adaptation.md)
+3. [MAML as Hierarchical Bayes](./Avishree_2017A7PS0112G/MAML_as_Hierarchical_Bayes/MAML_as_Hierarchical_Bayes.md)
+4. [On inductive biases in DRL](./Avishree_2017A7PS0112G/On_Inductive_Biases_in_DRL/On_Inductive_Biases_in_Deep_Reinforcement_Learning.md)
+
