@@ -138,6 +138,7 @@ images are not because they were obtained using contextualized stimuli
 
 
 * [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z)
+
 * [From brain space to distributional space:the perilous journeys of fMRI decoding](https://www.aclweb.org/anthology/P19-2021.pdf)
 
 
