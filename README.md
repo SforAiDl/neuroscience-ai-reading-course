@@ -12,3 +12,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Brain Embeddings
 1. [Brain Data Embeddings](./Neelay_2018A8PS0400G/brain_data_embeddings.md)
+
+## Neural Correlates of Discourse and Analyzing Aphasia
+1. [AphasiaBank: Methods for Studying Discourse](./Gargi_2017A8PS0408G/AphasiaBank Methods for Studying Discourse.md)
+2. [Unsupervised corpus-wide claim detection](./Gargi_2017A8PS0408G/Unsupervised corpus-wide claim detection.md)
