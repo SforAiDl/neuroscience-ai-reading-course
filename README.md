@@ -12,9 +12,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Brain Embeddings
 1. [Brain Data Embeddings](./Neelay_2018A8PS0400G/brain_data_embeddings.md)
-2. [Comparing Word Embeddings](./Neelay_2018A8PS0400G/comparing_word_embeddings.md)
-
-2. [Comparing Word Embeddings](./Neelay_2018A8PS0400G/comparing_word_embeddings.md)
+2. [Comparing Word Embeddings for Predicting Neural Activity](./Neelay_2018A8PS0400G/comparing_word_embeddings_for_predicting_neural_activity.md)
 
 ## Imagined Speech Classification 
 1. [Envisioned speech recognition using EEG sensors](./Divisha_2017A7PS0959G/Imagined_Speech_Classification_Using_EEG/Envisioned_speech_recognition_using_EEG_sensors.md)
