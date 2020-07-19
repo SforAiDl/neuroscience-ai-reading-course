@@ -1,7 +1,7 @@
 # Neuroscience & AI Reading Course
 Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Goa Campus
 
-#### The notes are available at: https://sforaidl.github.io/neuroscience-ai-reading-course/
+#### The notes are available [here](https://sforaidl.github.io/neuroscience-ai-reading-course/)
 
 ## NLP & Syntax
 1. [LSTMs & BERT](./Manav_2017B4AA1016G/NLP - LSTMs and BERT.md)
