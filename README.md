@@ -39,6 +39,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Grounded Language Learning
 1. [Visually Grounded Neural Syntax Acquisition](./Kartik_2017A7PS0051G/Visually Grounded Neural Syntax Acquisition Notes.md)
+2. [GLL_Notes](./VedantC_2018A7PS0209G/grounded_language_learning_notes.md)
 
 # Deep Cognitive Models of Language Acquisition
 1. Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity
