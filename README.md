@@ -41,15 +41,16 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 1. [Visually Grounded Neural Syntax Acquisition](./Kartik_2017A7PS0051G/Visually Grounded Neural Syntax Acquisition Notes.md)
 2. [GLL_Notes](./VedantC_2018A7PS0209G/grounded_language_learning_notes.md)
 
-# Deep Cognitive Models of Language Acquisition
+## Deep Cognitive Models of Language Acquisition
 1. Multi SimLex: A large scale evaluation of multilingual and cross lingual lexical semantic similarity
 2. Neural Language Models for the Multilingual, Transcultural, and Multimodal Semantic Web
 
-## Inductive Bias in Meta-Reinforcement Learning
+## Inductive Bias in Meta-Learning
 
 1. [MAML](./Avishree_2017A7PS0112G/MAML/Model_Agnostic_Meta_Learning_for_Fast_Adaptation.md)
 3. [MAML as Hierarchical Bayes](./Avishree_2017A7PS0112G/MAML_as_Hierarchical_Bayes/MAML_as_Hierarchical_Bayes.md)
 4. [On inductive biases in DRL](./Avishree_2017A7PS0112G/On_Inductive_Biases_in_DRL/On_Inductive_Biases_in_Deep_Reinforcement_Learning.md)
+5. [Universal Linguistic Inductive Biases via Meta-Learning](./Avishree_2017A7PS0112G/Universal_linguistic_Inductive_biases_via_Meta_Learning/Universal_linguistic_inductive_biases_via_meta-learning.md)
 
 ## Modeling Selective-Attention with Neural Networks
 1. [Introduction to Selective Attention and Cognitive Neuroscience](./Somesh_2018A7PS0175G/Modelling-Selective-Attention-with-Neural-Networks.md)
