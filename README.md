@@ -13,6 +13,7 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 
 ## Semantics of Mental Lexicon Development
 1. [Lexical Semantic Change](./Arijit_2018A8PS0856G/Lexicon_Development_in_Children.md)
+2. [Structured Semantic Knowledge from Child-Directed Speech](./Arijit_2018A8PS0856G/Structured_Semantic_Knowledge_from_Child-Directed_Speech.md)
 
 ## NCC-MARL
 1. [NCC-MARL](./Vedant_2018AAPS0566G/NCC-MARL.md)
